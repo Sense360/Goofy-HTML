@@ -1,0 +1,13 @@
+body {
+	background-color: hsl(185, 100%, 95%);
+}
+
+h1 {
+	text-align: center;
+	font-family: monospace;
+}
+
+p {
+	margin: 5px;
+	padding: 10px;
+}
