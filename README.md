@@ -1,3 +1,6 @@
 <h1>Test</h1>
-I'll be storing files in this project
+Download share.zip
+Extract it
+Then open clickme.html
+
 <!-- This comment is so cool -->
