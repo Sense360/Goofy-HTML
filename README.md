@@ -1,7 +1,7 @@
 <h1>Description</h1>
 Download share.zip  <br>
 Extract it  <br>
-Then open clickme.html <br>
+Then open clickme.html <br> with a web browser
 
 <!-- This comment is so cool -->
 <h1>Updates</h1>
