@@ -7,4 +7,4 @@ Then open clickme.html with a web browser <br>
 <h1>Updates</h1>
 Update 1 - Catfruit Update <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;- Added catfruit.gif <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;- catfruit.gif can be view in clickme.hmtl <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;- catfruit.gif can be view in clickme.html <br>
