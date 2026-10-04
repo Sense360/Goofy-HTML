@@ -5,6 +5,10 @@ Then open clickme.html with a web browser <br>
 
 <!-- This comment is so cool -->
 <h1>Updates</h1>
+
+Update 2 - Repository Rename 1 <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;- Renamed repository from "Test" to "Goofy-HTML"
+
 Update 1 - Catfruit Update <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;- Added catfruit.gif <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;- catfruit.gif can be view in clickme.html <br>
